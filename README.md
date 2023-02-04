@@ -11,4 +11,6 @@
 ## Hooks : https://usehooks.com/
 
 ## Test : https://jestjs.io/docs/using-matchers
+
+## Redux : https://stevekinney.github.io/redux-fundamentals/
     
