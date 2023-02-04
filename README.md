@@ -13,4 +13,6 @@
 ## Test : https://jestjs.io/docs/using-matchers
 
 ## Redux : https://stevekinney.github.io/redux-fundamentals/
+
+## Redux Official : https://redux.js.org/introduction/getting-started
     
