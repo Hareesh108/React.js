@@ -1,5 +1,7 @@
 # React.js
 
+## Javascript and React Patterns : https://javascriptpatterns.vercel.app/patterns
+
 ## https://jscomplete.com/learn/1rd-reactful
 
 ## https://create-react-app.dev/docs/getting-started
