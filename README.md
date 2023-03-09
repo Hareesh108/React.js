@@ -8,7 +8,7 @@
 
 # )
 
-==============================================================================================
+============================================================================================
 
 # React libraries available for form creation :
 
@@ -25,10 +25,36 @@
 ### 6) react-jsonschema-form => https://rjsf-team.github.io/react-jsonschema-form/docs/
 
 
-==============================================================================================
+============================================================================================
 
 
 # React libraries for creating tables :
+
+### 1) React Table => https://react-table-v7.tanstack.com/docs/overview
+
+### 2) Material-UI => https://mui.com/material-ui/getting-started/overview/
+
+### 3) Ant Design => https://ant.design/
+
+### 4) Bootstrap Table: => https://mdbootstrap.com/docs/react/
+
+### 5) FixedDataTable => https://openbase.com/js/fixed-data-table/documentation
+
+### 6) Chakra UI => https://chakra-ui.com/docs/components/table/usage
+
+### 7) Griddle => http://griddlegriddle.github.io/Griddle/docs/
+
+### 8) React Data Table Component => https://react-data-table-component.netlify.app/?path=/story/getting-started-intro--page
+
+### 9) React-bootstrap-Tables => https://react-bootstrap.github.io/getting-started/introduction/
+
+### 10) React Virtualized => https://bvaughn.github.io/react-virtualized/#/components/Table
+
+### 11) Tippy.js => https://atomiks.github.io/tippyjs/
+
+
+============================================================================================
+
 
 ### Javascript and React Patterns : https://javascriptpatterns.vercel.app/patterns
 
