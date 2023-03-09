@@ -1,20 +1,24 @@
 # React.js
 
-## Javascript and React Patterns : https://javascriptpatterns.vercel.app/patterns
+### Official Docs : 1) https://reactjs.org/docs/getting-started.html 2) https://create-react-app.dev/docs/getting-started
 
-## https://jscomplete.com/learn/1rd-reactful
+### Complete Intro to React v8 and Intermediate React v5 By Brian Holt : https://react-v8.holt.courses/
 
-## https://create-react-app.dev/docs/getting-started
+### creating a development environment for Node and React : https://jscomplete.com/learn/1rd-reactful
 
-## Emma Bostian : https://fem-design-systems.netlify.app/ 
+=========================================================================================================================================================================
 
-## React Forms : 1) https://formik.org/  2) https://react-hook-form.com/
+### Javascript and React Patterns : https://javascriptpatterns.vercel.app/patterns
 
-## Hooks : https://usehooks.com/
+### Emma Bostian : https://fem-design-systems.netlify.app/ 
 
-## Test : https://jestjs.io/docs/using-matchers
+### React Forms : 1) https://formik.org/  2) https://react-hook-form.com/
 
-## Redux : https://stevekinney.github.io/redux-fundamentals/
+### Hooks : https://usehooks.com/
 
-## Redux Official : https://redux.js.org/introduction/getting-started
+### Test : https://jestjs.io/docs/using-matchers
+
+### Redux : https://stevekinney.github.io/redux-fundamentals/
+
+### Redux Official : https://redux.js.org/introduction/getting-started
     
