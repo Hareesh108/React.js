@@ -10,6 +10,17 @@
 
 ============================================================================================
 
+# const Next.js = Resources => (
+
+### Official Docs : 1) https://nextjs.org/docs 2) https://react.dev/learn/installation
+
+### Intro to Next.js v2 By Scott Moss : https://intro-nextjs-v2-instructions.vercel.app/
+
+# )
+
+
+====================================================================================
+
 # React libraries available for form creation :
 
 ### 1) Formik => https://formik.org/  => Validition : Yup : https://openbase.com/js/yup
