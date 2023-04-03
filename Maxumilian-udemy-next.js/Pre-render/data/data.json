@@ -1,0 +1,8 @@
+{
+    "products" : [
+        {"id":"p1", "title":"project1" },
+        {"id":"p2", "title":"project2" },
+        {"id":"p3", "title":"project3" },
+        {"id":"p4", "title":"project4" }
+    ]
+}
