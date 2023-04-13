@@ -1,0 +1,21 @@
+
+/* #footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} */
+
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+
+.child1{
+    flex: 1;
+}
+
+.child2{
+    flex: 29;
+}
