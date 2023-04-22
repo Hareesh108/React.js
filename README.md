@@ -80,6 +80,8 @@
 
 ### Test : https://jestjs.io/docs/using-matchers
 
+### Redux : https://blog.isquaredsoftware.com/2018/06/redux-fundamentals-workshop-slides/
+
 ### Redux : https://stevekinney.github.io/redux-fundamentals/
 
 ### Redux Official : https://redux.js.org/introduction/getting-started
