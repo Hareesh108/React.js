@@ -1,10 +1,12 @@
 # const React.js = Resources => (
 
-### Official Docs : 1) https://reactjs.org/docs/getting-started.html 2) https://create-react-app.dev/docs/getting-started
+### Official Docs: 1) https://reactjs.org/docs/getting-started.html 2) https://create-react-app.dev/docs/getting-started
 
 ### Complete Intro to React v8 and Intermediate React v5 By Brian Holt : https://react-v8.holt.courses/
 
-### creating a development environment for Node and React : https://jscomplete.com/learn/1rd-reactful
+### Creating a development environment for Node and React: https://jscomplete.com/learn/1rd-reactful
+
+### Complete Intro to Realtime: https://btholt.github.io/complete-intro-to-realtime/
 
 # )
 
