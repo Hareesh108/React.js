@@ -66,7 +66,7 @@
 
 ### 11) Tippy.js => https://atomiks.github.io/tippyjs/
 
-### 12) * https://www.radix-ui.com/themes/docs/overview/resources
+### 12) * Radix => https://www.radix-ui.com/themes/docs/overview/resources
 
 
 ============================================================================================
